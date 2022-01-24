@@ -18,4 +18,9 @@ Contents
    
    introduction
    install
+   hazard
+   fragility
+   vulnerability
+   losses
+   tutorial
    api
