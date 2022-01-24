@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+EQRAT
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+An open source python-based tool, EQRAT is developed to determine the probable damage to buildings for earthquake considering social vulnerability.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://eqrat.readthedocs.io/en/latest/tutorial/
