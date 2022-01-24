@@ -16,9 +16,10 @@ Contents
 
 .. toctree::
 
-   Introduction
-   Install
-   Hazard
-   Fragility
-   Social Vulnerability
-   API
+   introduction
+   install
+   hazard
+   fragility
+   social vulnerability
+   tutorial
+   api
