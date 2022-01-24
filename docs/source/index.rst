@@ -17,15 +17,5 @@ Contents
 .. toctree::
    
    introduction
-   
    install
-   
-   hazard
-   
-   fragility
-   
-   vulnerability
-   
-   tutorial
-   
    api
