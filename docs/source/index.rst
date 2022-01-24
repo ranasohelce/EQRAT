@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to EQRAT documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+An open source python-based tool, EQRAT is developed to determine the probable damage to buildings for earthquake considering social vulnerability.
 
 Lumache has its documentation hosted on Read the Docs.
 Check out the :doc:`usage` section for further information, including
@@ -19,5 +16,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Introduction
+   Install
+   Hazard
+   Fragility
+   Social Vulnerability
+   API
