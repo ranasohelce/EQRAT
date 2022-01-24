@@ -20,6 +20,6 @@ Contents
    install
    hazard
    fragility
-   social vulnerability
+   vulnerability
    tutorial
    api
